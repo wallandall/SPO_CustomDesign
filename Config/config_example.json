@@ -1,0 +1,6 @@
+{
+    "AppId": "APP_ID",
+    "CertificateThumbprint" : "YOUR_CERT_THUMBPRINT",
+    "Tenant":"YOUR_TENANT_URL",
+    "URL":"YOUR_SP_ADMIN_URL"
+}
